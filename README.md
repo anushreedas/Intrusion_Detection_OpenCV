@@ -50,3 +50,8 @@ Concepts:
 * Implement object tracking (e.g., SORT / DeepSORT)
 * Improve illumination normalization
 * Deploy as a web-based monitoring tool
+
+## Author
+
+**Anushree Das**
+[LinkedIn](https://linkedin.com/in/anushree-s-das) · [GitHub](https://github.com/anushreedas) · [Medium](https://medium.com/@anushreedas.2710)
